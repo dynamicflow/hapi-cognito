@@ -1,7 +1,7 @@
 {
   "name": "hapi-cognito",
   "description": "Cognito Authorization plugin",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "repository": "git://github.com/dynamicflow/hapi-cognito",
   "main": "lib/index.js",
   "keywords": [
